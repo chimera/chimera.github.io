@@ -2,7 +2,7 @@
 title: "Chimera's Board and Leadership"
 ---
 
-### Our Board
+## Our Board
 
 - **Oren Slozberg** - President
 - **Rob Cary** - Treasurer

@@ -2,7 +2,7 @@
 title: "Branding Assets"
 ---
 
-### Logo
+## Logo
 
 - [PNG file](/static/assets/logo/chimera-logo.png)
 - [PSD file](/static/assets/logo/chimera-logo.psd)

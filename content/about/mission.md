@@ -3,12 +3,12 @@ title: "Mission and Vision"
 ---
 
 
-### Our Mission
+## Our Mission
 
 We aim to provide resources, education and community to creative people in Sonoma County and California’s North Bay.
 
 
-### Our Vision
+## Our Vision
 
 Chimera Arts & Maker Space brings access to equipment, supplies, space and education for artists, makers, hackers, inventors and creative people of all types. We strive to positively influence the arts and maker communities in Sonoma County, California.
 

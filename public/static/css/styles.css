@@ -1,3 +1,68 @@
-.page-footer {
-  margin-top: 3em;
+body,
+p,
+.btn {
+  font-family: "franklin-gothic-urw", Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
 }
+
+p {
+  line-height: 1.6;
+  margin: 0 0 1.55em 0
+}
+
+em {
+  background: #ffffcf;
+  color: #b03d14;
+  font-style: normal;
+  padding: 0.1em 0.4em;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "adelle", Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  border-bottom: 1px solid #eee;
+  color: #b03d14;
+  font-size: 24px;
+  margin: 1.6em 0 0.6em 0;
+  padding-bottom: 0.2em;
+}
+
+h3 {
+  color: #555;
+  font-size: 18px;
+  margin: 0.5em 0;
+}
+
+.container {
+  max-width: 900px;
+}
+
+.page-nav {
+  background: #efefef;
+  border-radius: 0;
+  border-bottom: none;
+  margin: 0 0 2.5em 0;
+  padding: 0.5em 0;
+}
+  .page-nav .navbar-brand {
+    font-family: "adelle", Helvetica, sans-serif;
+  }
+  .page-nav .navbar-toggle,
+  .page-nav .navbar-nav {
+    margin-top: 2.5em;
+  }
+
+.page-footer {
+  background: #efefef;
+  margin-top: 3.5em;
+  padding: 3.5em 0;
+}
+  .page-footer h3 {
+    margin-top: 0;
+  }

@@ -3,7 +3,7 @@ title: "Get in Touch with Chimera"
 ---
 
 
-### Got Questions?
+## Got Questions?
 
 **If you've got general questions about Chimera, first reach out to members on our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space)**
 
@@ -12,17 +12,17 @@ If you want to get in touch with Chimera administrators, please email us at: [in
 *Please be patient if we don't respond right away, we get lots of email and are all volunteers!*
 
 
-### Have Donations?
+## Have Donations?
 
 If you'd like to donate equipment, time or money, please head on over to our [Donate](/donate/) page.
 
 
-### Want to Teach?
+## Want to Teach?
 
 If you're interested in teaching at Chimera, please learn more no our [Teachers page](/about/teaching/).
 
 
-### Contact Info
+## Contact Info
 
 Our **address** is:
 

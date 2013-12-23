@@ -7,7 +7,7 @@ title: "Chimera's Wish List"
 If you have some of the following items, **please post on our** [**Google Group**](https://groups.google.com/forum/#!forum/chimera-art-space) **describing what you have** (and ideally a photo or two).
 
 
-### Organizational
+## Organizational
 
 - Cabinets
 - Storage containers
@@ -15,14 +15,14 @@ If you have some of the following items, **please post on our** [**Google Group*
 - Window blinds
 
 
-### Tools
+## Tools
 
 - Functional power tools (saws, drills, etc...)
 - Tarps
 - Clamps
 
 
-### Office / Kitchen
+## Office / Kitchen
 
 - Office chairs!!!
 - White boards
@@ -32,19 +32,19 @@ If you have some of the following items, **please post on our** [**Google Group*
 - Full size refrigerator (clean and working!)
 
 
-### Decorations
+## Decorations
 
 - Christmas lights (working ones please!)
 - Awesome art!
 
 
-### Other
+## Other
 
 - Money!
 - The answer to the meaning of life (and no, we won't accept 47 as an answer!)
 
 
 
-### Not in the list?
+## Not in the list?
 
 For items not in the list below, **we require a member to take responsibility for the item**. The reason we do this is so that we don't end up with a lot of things that aren't used and just take up space and collect dust.
