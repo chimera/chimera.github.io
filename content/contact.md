@@ -5,11 +5,11 @@ title: "Get in Touch with Chimera"
 
 ## Got Questions?
 
-**If you've got general questions about Chimera, first reach out to members on our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space)**
+**If you've got general questions about Chimera, first reach out to members on our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space)**. Our members can answer most common questions about Chimera. 
 
-If you want to get in touch with Chimera administrators, please email us at: [info@chimeraarts.org](mailto:info@chimeraarts.org). 
+If you want to get in touch with [Chimera administrators](/about/leadership/), please email us at: [info@chimeraarts.org](mailto:info@chimeraarts.org). 
 
-*Please be patient if we don't respond right away, we get lots of email and are all volunteers!*
+*Please be patient if we don't respond right away, we get lots of email and we are all volunteers!*
 
 
 ## Have Donations?
