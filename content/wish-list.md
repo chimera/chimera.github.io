@@ -6,6 +6,12 @@ title: "Chimera's Wish List"
 
 If you have some of the following items, **please post on our** [**Google Group**](https://groups.google.com/forum/#!forum/chimera-art-space) **describing what you have** (and ideally a photo or two).
 
+## Cool Toys
+
+- Laser cutter
+- 3D printers
+- CNC mills
+
 
 ## Organizational
 
@@ -13,6 +19,12 @@ If you have some of the following items, **please post on our** [**Google Group*
 - Storage containers
 - Peg boards (and hooks)
 - Window blinds
+
+## Parts
+
+- Stepper motors, servos
+- LEDs
+- Breadboards
 
 
 ## Tools
@@ -40,11 +52,11 @@ If you have some of the following items, **please post on our** [**Google Group*
 
 ## Other
 
-- Money!
+- [Money!](/donate/)
 - The answer to the meaning of life (and no, we won't accept 47 as an answer!)
 
 
 
 ## Not in the list?
 
-For items not in the list below, **we require a member to take responsibility for the item**. The reason we do this is so that we don't end up with a lot of things that aren't used and just take up space and collect dust.
+For items not in the list above, **we require a member to take responsibility for the item**. The reason we do this is so that we don't end up with a lot of things that aren't used and just take up space and collect dust.

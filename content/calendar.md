@@ -8,7 +8,9 @@ Check out our [Google Calendar](bit.ly/chimera-calendar) to see all our upcoming
 
 ## Idea for an Event?
 
-Have a class, event or meetup you want to have? Propose it on our [Meetup.com page][meetup]!
+**Have an event or meetup you want to host?** Propose it on our [Meetup.com page][meetup]!
+
+**Want to teach at Chimera?** Check out our [Teachers page](/about/teaching/) to learn more.
 
 
 ## Meetup.com
